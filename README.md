@@ -1,5 +1,6 @@
 # mammut_prototype1
 Mostly functioning prototype for a local multiplayer boardgame
+Game design courtesy of Kamil Balitzki.
 
 ### to build
 `make`
